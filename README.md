@@ -1,4 +1,3 @@
 # test
-this is my practice test
-sedzsz
-
+print('Hello!')
+print('Harika')
